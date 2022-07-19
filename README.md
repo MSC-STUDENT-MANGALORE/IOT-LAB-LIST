@@ -11,5 +11,7 @@ https://wokwi.com/projects/337603663792964179<br>
 4)Program 4: relay with arduino ie Servo motor with BUTTON:<br>
 https://wokwi.com/projects/337603967810798163<br>
 
+5)Program 5: LCD DHT 22
+https://wokwi.com/projects/337605922532622930
 
 
